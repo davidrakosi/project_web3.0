@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.3.4",
-    "autoprefixer": "^10.4.0",
+    "autoprefixer": "^10.4.2",
     "eth-revert-reason": "^1.0.3",
     "ethers": "^5.5.1",
     "framer-motion": "^5.3.1",
